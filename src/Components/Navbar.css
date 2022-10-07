@@ -1,0 +1,14 @@
+.navbar{
+    display: flex;
+    background-color: rgb(8, 8, 61);
+    width: auto;
+    height: 60px;
+}
+h2{
+    color: white;
+    font-family:cursive;
+    padding: 0px 80px;
+}
+.link{
+    text-decoration: none;
+}
