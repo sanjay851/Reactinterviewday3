@@ -1,14 +1,46 @@
 .navbar{
     display: flex;
-    background-color: rgb(8, 8, 61);
+    background-color:maroon;
     width: auto;
-    height: 60px;
+    height: 65px;
+    flex-wrap: wrap;
 }
 h2{
     color: white;
     font-family:cursive;
-    padding: 0px 80px;
+    padding: 0px 20px;
 }
 .link{
     text-decoration: none;
+}
+#h2{
+    background-color: chartreuse;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    margin-left: 10%;
+    margin-top: 15px;
+    border-radius: 25px;
+}
+.h22{
+    color: gold;
+    background-color: black;
+    font-size: 35px;
+    text-align: center;
+}
+h1{
+    color: red;
+    font-size: 45px;
+    text-align: center;
+}
+.axios{
+    font-size: 25px;
+    background-color:rgb(77, 34, 1);
+    color:gold;
+}
+.reduce{
+    background-color: darkblue;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
 }
